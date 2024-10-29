@@ -11,8 +11,6 @@
   - 💬 Tenho 30 anos, moro em Fortaleza, CE, Brasil. Estudo Python e trabalho como estoquista, o que me proporciona experiência prática e trabalho em equipe.
 </details>
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=wei13on9mvwz2dk3qrv0r18ys&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=44ff00&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=wei13on9mvwz2dk3qrv0r18ys&redirect=true)
-
 ##
 
 <table>
