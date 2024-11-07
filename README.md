@@ -8,7 +8,7 @@
 <details>
   <summary>👨‍💻 Mais sobre mim</summary>
 
-  - 💬 Tenho 30 anos, moro em Fortaleza, CE, Brasil. Estudo Python e trabalho como estoquista, o que me proporciona experiência prática e trabalho em equipe.
+  - 💬 Tenho 30 anos, moro em Fortaleza, CE, Brasil. Estudo diversas liguagens de programação focado no backend. 
 </details>
 
 ##
