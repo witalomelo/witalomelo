@@ -8,7 +8,7 @@
 <details>
   <summary>👨‍💻 Mais sobre mim</summary>
 
-  - 💬 Tenho 30 anos, moro em Fortaleza, CE, Brasil. Estudo diversas liguagens de programação focado no backend. 
+  - 💬 Tenho 30 anos, moro em Fortaleza, CE, Brasil. Em busca de um sonho. 
 </details>
 
 ##
